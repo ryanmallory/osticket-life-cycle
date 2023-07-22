@@ -2,25 +2,25 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Ticket Life Cycle: Intake Through Resolution</h1>
+In this project, I outline the life cycle of a ticket from intake to resolution within osTicket, an open-source help desk ticketing system.<br />
 
 
 <h2>Video Demonstration</h2>
 
 - ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
+<h2>Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- VMWare Workstation (Virtual Machine)
+- osTicket (Help Desk Ticketing Software)
 - Internet Information Services (IIS)
 
-<h2>Operating Systems Used </h2>
+<h2>Operating System Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro
 
-<h2>Ticket Lifecycle Stages</h2>
+<h2>Ticket Life Cycle Stages</h2>
 
 - Intake
 - Assignment and Communication
