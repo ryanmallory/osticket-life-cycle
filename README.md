@@ -27,7 +27,7 @@ In this project, I outline the life cycle of a ticket from intake to resolution 
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Life Cycle Stages</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
