@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Life Cycle: Intake Through Resolution</h1>
-In this project, I outline the life cycle of a ticket from intake to resolution within osTicket, an open-source help desk ticketing system.<br />
+In the previous lab, I set up osTicket (help desk ticketing system) by creating creating user and employee accounts, teams, departments, SLAs, permissions, and help topics. In this lab, I'll use those existing attributes as I create 2 help desk tickets and walk you through the process of working and resolving a ticket.<br />
 
 <h2>Technologies Used</h2>
 
@@ -28,7 +28,7 @@ In this project, I outline the life cycle of a ticket from intake to resolution 
 <img src="https://i.imgur.com/qB474bL.jpg" height="90%" width="90%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Browsing to localhost/osTicket takes you to osTicket's Support Center. This is where end-users can create tickets which will be sent to the help desk staff. I'll create 2 tickets, and afterwards I'll login with Jane Doe's agent account in order to access them (I'll be referring to the tickets as "Ticket A" and "Ticket B"). 
 </p>
 <br />
 
