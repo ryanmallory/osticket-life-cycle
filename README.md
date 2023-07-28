@@ -28,7 +28,7 @@ In the previous lab, I set up osTicket (help desk ticketing system) by creating 
 <img src="https://i.imgur.com/qB474bL.jpg" height="90%" width="90%"/>
 </p>
 <p>
-Browsing to localhost/osTicket takes you to osTicket's Support Center. This is where end-users can create tickets which will be sent to the help desk staff. I'll create 2 tickets, and afterwards I'll login with Jane Doe's agent account in order to access them (I'll be referring to the tickets as "Ticket A" and "Ticket B"). 
+Browsing to localhost/osTicket takes you to osTicket's Support Center. This is where end-users can create tickets which will be sent to the help desk staff. I'll create 2 tickets, and afterwards I'll login with an agent account (Jane Doe) in order to access them.
 </p>
 <br />
 
@@ -38,7 +38,7 @@ Browsing to localhost/osTicket takes you to osTicket's Support Center. This is w
 <img src="https://i.imgur.com/Kim1ehB.jpg" height="49%" width="49%"/> <img src="https://i.imgur.com/1K2qdIZ.jpg" height="49%" width="49%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is the stage when a new ticket is created. Two common ways in which tickets can be submitted is through a form – such as the one shown here – or by sending an email to an email address that is designated to receive tickets. In this form, the users provide their contact information, select a Help Topic, and provide details about the issue. 
 </p>
 <br />
 
@@ -48,7 +48,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/rHe0ujl.jpg" height="49%" width="49%"/> <img src="https://i.imgur.com/xjUsdHZ.jpg" height="49%" width="49%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After a ticket has been submitted, the ticket can be assigned to an IT professional. In order for the ticket to be handled properly, information regarding the level of severity can be changed. For Ticket A, the priority was changed to “Emergency”, the SLA plan was changed to “SEV-1”, and the Department was changed to “System Administrators”. The ticket was also assigned to “Jane Doe”, who is an administrator in this scenario. 
+
+For Ticket B, the priority was changed to "high", the SLA plan was changed to "SEV-1", and the Department was changed to "Support". This ticket was assigned to "John Doe", a Level I support professional.
 </p>
 <br />
 
@@ -58,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/N5NRov0.jpg" height="49%" width="49%"/> <img src="https://i.imgur.com/OZSjfEJ.jpg" height="49%" width="49%"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that the tickets have been assigned to the appropriate departments and agents, the IT staff can work on finding solutions to the issues. Each time a change is made to the ticket or there is an update to the situation, a comment can be made in the Ticket Thread. This allows everyone viewing the ticket to be aware of what has already happened and facilitates communication between everyone involved.
 </p>
 <br />
 
@@ -67,6 +69,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 <img src="https://i.imgur.com/TgzC9JE.jpg" height="90%" width="90%"/>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the issue has been resolved, the ticket can be closed. In the osTicket system, the ticket will move from the Open section to the Closed section in this stage. For IT professionals, it is important to know where to find closed tickets since they can be browsed and used to find solutions to open tickets.
 </p>
 <br />
