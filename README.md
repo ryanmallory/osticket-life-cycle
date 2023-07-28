@@ -38,7 +38,7 @@ Browsing to localhost/osTicket takes you to osTicket's Support Center. This is w
 <img src="https://i.imgur.com/Kim1ehB.jpg" height="49%" width="49%"/> <img src="https://i.imgur.com/1K2qdIZ.jpg" height="49%" width="49%"/>
 </p>
 <p>
-This is the stage when a new ticket is created. Two common ways in which tickets can be submitted is through a form – such as the one shown here – or by sending an email to an email address that is designated to receive tickets. In this form, the users provide their contact information, select a Help Topic, and provide details about the issue. 
+This is the stage when a new ticket is created. Two common ways in which tickets can be submitted is through a form – such as the method shown here – or by sending an email to an email address that is designated to receive tickets. In this form, the users provide their contact information, select a Help Topic, and provide details about the issue. 
 </p>
 <br />
 
